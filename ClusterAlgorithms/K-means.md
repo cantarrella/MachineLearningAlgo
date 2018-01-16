@@ -21,9 +21,7 @@ X: dataset
 
 
 Algorithm:
-Initialize each $c \in C$ with $x$ picked from $X$
-
-$ \sum_{\forall i}{x_i^{2}} $
+Initialize each c \alpha C with x picked from X
 
 
 
